@@ -7,10 +7,10 @@ V tomto repozitáři naleznete praktické příklady návrhových vzorů (= desi
 ### Tvořivé vzory - Creational patterns ###
 
 * Singleton | _hotovo_
-* Factory method
+* Factory method | _hotovo_
 * Abstract factory
 * Builder
-* Prototype
+* Prototype | _hotovo_
 
 ### Strukturální vzory - Structural patterns ###
 
