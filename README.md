@@ -9,12 +9,12 @@ V tomto repozitáři naleznete praktické příklady návrhových vzorů (= desi
 * Singleton | _hotovo_
 * Factory method | _hotovo_
 * Abstract factory
-* Builder
+* Builder | _hotovo_
 * Prototype | _hotovo_
 
 ### Strukturální vzory - Structural patterns ###
 
-* Composite
+* Composite | _hotovo_
 * Adapter
 * Bridge
 * Decorator
