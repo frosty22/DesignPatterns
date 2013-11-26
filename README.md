@@ -15,7 +15,7 @@ V tomto repozitáři naleznete praktické příklady návrhových vzorů (= desi
 ### Strukturální vzory - Structural patterns ###
 
 * Composite | _hotovo_
-* Adapter
+* Adapter | _hotovo_
 * Bridge
 * Decorator
 * Proxy
