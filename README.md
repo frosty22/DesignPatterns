@@ -35,3 +35,8 @@ V tomto repozitáři naleznete praktické příklady návrhových vzorů (= desi
 * Strategy
 * Chain of responsibility
 * Interpreter
+
+### Neoficiální vzory (nejsou v GoF)
+
+* Crate | _hotovo_
+* Servant | _hotovo_
