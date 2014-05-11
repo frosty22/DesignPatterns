@@ -40,3 +40,5 @@ V tomto repozitáři naleznete praktické příklady návrhových vzorů (= desi
 
 * Crate | _hotovo_
 * Servant | _hotovo_
+* Immutable object | _hotovo_
+* Null object | _hotovo_
