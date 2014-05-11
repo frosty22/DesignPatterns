@@ -36,9 +36,10 @@ V tomto repozitáři naleznete praktické příklady návrhových vzorů (= desi
 * Chain of responsibility
 * Interpreter
 
-### Neoficiální vzory (nejsou v GoF)
+### Neoficiální vzory (nejsou v GoF) ###
 
 * Crate | _hotovo_
 * Servant | _hotovo_
 * Immutable object | _hotovo_
 * Null object | _hotovo_
+* Library class | _hotovo_
